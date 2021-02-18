@@ -1,0 +1,2 @@
+# wackAMole
+simple game js
